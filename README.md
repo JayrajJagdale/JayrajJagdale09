@@ -6,6 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on **[Food Donation APP (ShareBits)]()**
+- 💡 I have completed a **College Event Management Application** using Flutter, which includes event creation, viewing, user authentication, and more.<a href ="https://github.com/JayrajJagdale/EventManagement"/>
 - 🌱 I’m currently learning **Flutter, Java, Dart, JavaScript**
 - 📫 How to reach me **work.jayrajjagdale@gmail.com**
 - 📄 Know about my experiences [Completed Internship At Platominds Services Pvt. Ltd. As A Trainee Android Engineer](https://www.linkedin.com/in/jayrajjagdale09?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BLBDOPtdrSxuj%2FGVSPFpZUQ%3D%3D)
